@@ -1,3 +1,7 @@
+# DO NOT COMMIT TO MASTER!
+Please make your own branch off of master or fork the repository and pr to another branch.
+
+
 # ftc_app
 FTC Android Studio project to create FTC Robot Controller app.
 
